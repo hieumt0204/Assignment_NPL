@@ -1,0 +1,15 @@
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment10\Example26\obj\Debug\net6.0\Example26.csproj.AssemblyReference.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment10\Example26\obj\Debug\net6.0\Example26.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment10\Example26\obj\Debug\net6.0\Example26.AssemblyInfoInputs.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment10\Example26\obj\Debug\net6.0\Example26.AssemblyInfo.cs
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment10\Example26\obj\Debug\net6.0\Example26.csproj.CoreCompileInputs.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment10\Example26\bin\Debug\net6.0\Example26.exe
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment10\Example26\bin\Debug\net6.0\Example26.deps.json
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment10\Example26\bin\Debug\net6.0\Example26.runtimeconfig.json
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment10\Example26\bin\Debug\net6.0\Example26.dll
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment10\Example26\bin\Debug\net6.0\Example26.pdb
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment10\Example26\obj\Debug\net6.0\Example26.dll
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment10\Example26\obj\Debug\net6.0\refint\Example26.dll
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment10\Example26\obj\Debug\net6.0\Example26.pdb
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment10\Example26\obj\Debug\net6.0\Example26.genruntimeconfig.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment10\Example26\obj\Debug\net6.0\ref\Example26.dll

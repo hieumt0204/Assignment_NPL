@@ -1,0 +1,16 @@
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Final_Assignment\FinalAssignment\FinalAssignment\obj\Debug\net5.0\FinalAssignment.csproj.AssemblyReference.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Final_Assignment\FinalAssignment\FinalAssignment\obj\Debug\net5.0\FinalAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Final_Assignment\FinalAssignment\FinalAssignment\obj\Debug\net5.0\FinalAssignment.AssemblyInfoInputs.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Final_Assignment\FinalAssignment\FinalAssignment\obj\Debug\net5.0\FinalAssignment.AssemblyInfo.cs
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Final_Assignment\FinalAssignment\FinalAssignment\obj\Debug\net5.0\FinalAssignment.csproj.CoreCompileInputs.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Final_Assignment\FinalAssignment\FinalAssignment\bin\Debug\net5.0\FinalAssignment.exe
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Final_Assignment\FinalAssignment\FinalAssignment\bin\Debug\net5.0\FinalAssignment.deps.json
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Final_Assignment\FinalAssignment\FinalAssignment\bin\Debug\net5.0\FinalAssignment.runtimeconfig.json
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Final_Assignment\FinalAssignment\FinalAssignment\bin\Debug\net5.0\FinalAssignment.runtimeconfig.dev.json
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Final_Assignment\FinalAssignment\FinalAssignment\bin\Debug\net5.0\FinalAssignment.dll
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Final_Assignment\FinalAssignment\FinalAssignment\bin\Debug\net5.0\FinalAssignment.pdb
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Final_Assignment\FinalAssignment\FinalAssignment\obj\Debug\net5.0\FinalAssignment.dll
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Final_Assignment\FinalAssignment\FinalAssignment\obj\Debug\net5.0\refint\FinalAssignment.dll
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Final_Assignment\FinalAssignment\FinalAssignment\obj\Debug\net5.0\FinalAssignment.pdb
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Final_Assignment\FinalAssignment\FinalAssignment\obj\Debug\net5.0\FinalAssignment.genruntimeconfig.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Final_Assignment\FinalAssignment\FinalAssignment\obj\Debug\net5.0\ref\FinalAssignment.dll

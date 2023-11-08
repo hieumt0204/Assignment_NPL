@@ -1,0 +1,15 @@
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment3\NPL.M.A005\AgainEc3\bin\Debug\net6.0\AgainEc3.exe
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment3\NPL.M.A005\AgainEc3\bin\Debug\net6.0\AgainEc3.deps.json
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment3\NPL.M.A005\AgainEc3\bin\Debug\net6.0\AgainEc3.runtimeconfig.json
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment3\NPL.M.A005\AgainEc3\bin\Debug\net6.0\AgainEc3.dll
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment3\NPL.M.A005\AgainEc3\bin\Debug\net6.0\AgainEc3.pdb
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment3\NPL.M.A005\AgainEc3\obj\Debug\net6.0\AgainEc3.csproj.AssemblyReference.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment3\NPL.M.A005\AgainEc3\obj\Debug\net6.0\AgainEc3.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment3\NPL.M.A005\AgainEc3\obj\Debug\net6.0\AgainEc3.AssemblyInfoInputs.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment3\NPL.M.A005\AgainEc3\obj\Debug\net6.0\AgainEc3.AssemblyInfo.cs
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment3\NPL.M.A005\AgainEc3\obj\Debug\net6.0\AgainEc3.csproj.CoreCompileInputs.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment3\NPL.M.A005\AgainEc3\obj\Debug\net6.0\AgainEc3.dll
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment3\NPL.M.A005\AgainEc3\obj\Debug\net6.0\refint\AgainEc3.dll
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment3\NPL.M.A005\AgainEc3\obj\Debug\net6.0\AgainEc3.pdb
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment3\NPL.M.A005\AgainEc3\obj\Debug\net6.0\AgainEc3.genruntimeconfig.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment3\NPL.M.A005\AgainEc3\obj\Debug\net6.0\ref\AgainEc3.dll

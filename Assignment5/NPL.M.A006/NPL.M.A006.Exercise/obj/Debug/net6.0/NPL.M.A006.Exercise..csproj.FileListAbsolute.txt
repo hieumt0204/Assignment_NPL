@@ -1,0 +1,15 @@
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment5\NPL.M.A006\NPL.M.A006.Exercise\bin\Debug\net6.0\NPL.M.A006.Exercise..exe
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment5\NPL.M.A006\NPL.M.A006.Exercise\bin\Debug\net6.0\NPL.M.A006.Exercise..deps.json
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment5\NPL.M.A006\NPL.M.A006.Exercise\bin\Debug\net6.0\NPL.M.A006.Exercise..runtimeconfig.json
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment5\NPL.M.A006\NPL.M.A006.Exercise\bin\Debug\net6.0\NPL.M.A006.Exercise..dll
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment5\NPL.M.A006\NPL.M.A006.Exercise\bin\Debug\net6.0\NPL.M.A006.Exercise..pdb
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment5\NPL.M.A006\NPL.M.A006.Exercise\obj\Debug\net6.0\NPL.M.A006.Exercise..csproj.AssemblyReference.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment5\NPL.M.A006\NPL.M.A006.Exercise\obj\Debug\net6.0\NPL.M.A006.Exercise..GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment5\NPL.M.A006\NPL.M.A006.Exercise\obj\Debug\net6.0\NPL.M.A006.Exercise..AssemblyInfoInputs.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment5\NPL.M.A006\NPL.M.A006.Exercise\obj\Debug\net6.0\NPL.M.A006.Exercise..AssemblyInfo.cs
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment5\NPL.M.A006\NPL.M.A006.Exercise\obj\Debug\net6.0\NPL.M.A006.Exercise..csproj.CoreCompileInputs.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment5\NPL.M.A006\NPL.M.A006.Exercise\obj\Debug\net6.0\NPL.M.A006.Exercise..dll
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment5\NPL.M.A006\NPL.M.A006.Exercise\obj\Debug\net6.0\refint\NPL.M.A006.Exercise..dll
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment5\NPL.M.A006\NPL.M.A006.Exercise\obj\Debug\net6.0\NPL.M.A006.Exercise..pdb
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment5\NPL.M.A006\NPL.M.A006.Exercise\obj\Debug\net6.0\NPL.M.A006.Exercise..genruntimeconfig.cache
+C:\FPT\Semester6_OJT\F-Academic\NET\HN23_CPL_.NET_04\Assignment\Assignment5\NPL.M.A006\NPL.M.A006.Exercise\obj\Debug\net6.0\ref\NPL.M.A006.Exercise..dll
